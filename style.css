@@ -1,5 +1,5 @@
 
-@media (max-width: 768px) {
+@media (max-width: 400px) {
 
     header {
         flex-direction: column;
@@ -10,7 +10,7 @@
     nav, nav#nave {
         display: flex;
         flex-direction: column;
-        width: 100%;
+        width: 50%;
         gap: 10px;
     }
 
